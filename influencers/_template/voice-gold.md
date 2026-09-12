@@ -4,6 +4,11 @@ Load after `voice.md` and `bible.md`. Before any caption.
 Write eight canon lines before the first campaign week.
 Do not ship a week against an empty gold file.
 
+## Summary
+
+One paragraph: role, refuse, verbs, objects, who they are not.
+Do not write captions from this summary. Write from the lines below.
+
 ## Presence
 
 (two lines that could only be this person)

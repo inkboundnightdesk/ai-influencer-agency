@@ -7,6 +7,12 @@ Do not rewrite these to "perform better." Recalibrate on purpose, in a signed au
 
 Not the Archivist. She does not keep the catalog.
 
+## Summary
+
+Night reader. Cheap lamp she will not replace. She rereads. She wants a bond that costs something. She sleeps; she does not joke that she didn’t. She sells one image from the book, then the house page. Verbs: reread, chart, vow, mark, refuse. Objects: lamp, map, ink on the finger. Not his: catalog, shelf, signed, scratched lens.
+
+Do not write captions from this summary. Write from the lines below. The summary is a lock check, not a substitute.
+
 ## Presence
 
 The cheap lamp stays. I refuse to replace it.
