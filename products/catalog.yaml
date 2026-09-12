@@ -1,0 +1,68 @@
+house:
+  name: Inkbound Night Desk
+  site: https://inkboundnightdesk.com
+  tagline: Dark literary press. Finished ebooks, direct from the desk.
+
+offers:
+  - slug: night-desk-site
+    name: Inkbound Night Desk
+    type: site
+    url: https://inkboundnightdesk.com
+    status: live
+    niches: [literary-press, catalog-host, dark-romantasy, mind-presence, thriller-night]
+
+  - slug: the-cartographers-bond
+    name: The Cartographer's Bond
+    type: ebook
+    collection: dark-romantasy
+    url: https://inkboundnightdesk.com/book/the-cartographers-bond
+    status: slated
+    niches: [dark-romantasy, catalog-host]
+    fallback: night-desk-site
+
+  - slug: romantasy-line
+    name: Dark Romantasy line
+    type: collection
+    url: https://inkboundnightdesk.com
+    status: slated
+    niches: [dark-romantasy, catalog-host]
+    titles:
+      - The Cartographer's Bond
+      - A Debt of Small Hours
+      - The Cartographer's Ledger
+      - Salt and Sworn Names
+      - The Lantern Vow
+    fallback: night-desk-site
+
+  - slug: literary-line
+    name: Literary Fiction & Thrillers
+    type: collection
+    url: https://inkboundnightdesk.com
+    status: slated
+    niches: [literary-press, thriller-night, catalog-host]
+    titles:
+      - Night Desk
+      - The Quiet Wire
+      - Everything We Left Running
+      - The Second Key
+      - Small Hours, Long Roads
+    fallback: night-desk-site
+
+  - slug: mind-presence-line
+    name: Mind & Presence line
+    type: collection
+    url: https://inkboundnightdesk.com
+    status: slated
+    niches: [mind-presence, catalog-host]
+    titles:
+      - The Night Mind
+      - One Small Attention
+      - Put the Day Down
+      - The Desk Habit
+    fallback: night-desk-site
+
+banned_offers:
+  - the-lantern-kids
+  - marlow-and-the-paper-map
+  - the-tuesday-club
+  - childrens-youtube-channel

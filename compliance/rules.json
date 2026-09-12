@@ -1,0 +1,12 @@
+{
+  "version": "2026-09-11",
+  "non_negotiables": [
+    {"id": "NN-1", "title": "AI persona disclosure", "rule": "Every persona is disclosed as AI or synthetic on the profile and on promotional content."},
+    {"id": "NN-2", "title": "Material connection", "rule": "Every post that promotes a house page, book, or product discloses the owned relationship to Inkbound Night Desk."},
+    {"id": "NN-3", "title": "No real-person likeness", "rule": "No celebrity, no scraped face, no photo-reference of a real identifiable person."},
+    {"id": "NN-4", "title": "No fake proof", "rule": "No invented reviews, ranks, awards, follower counts, now-live claims, or testimonials."},
+    {"id": "NN-5", "title": "No login or posting", "rule": "This agency writes packets. A person posts. No credentials live in this repo."},
+    {"id": "NN-6", "title": "No kids mix", "rule": "No children's YouTube work. No young-readers hard-sell from adult personas."},
+    {"id": "NN-7", "title": "No near-duplicate personas", "rule": "A new influencer must differ in name, face lock, voice, and niche emphasis."}
+  ]
+}
